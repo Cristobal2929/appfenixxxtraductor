@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppFenixxxtraductor</string>
+    <string name="toggle_activate">Activar detección</string>
+    <string name="toggle_pause">Pausar detección</string>
+    <string name="repeat">Repetir</string>
+    <string name="error_long_text">Texto demasiado largo (máx 500 caracteres).</string>
+    <string name="error_translation_failed">Error al traducir el texto.</string>
+    <string name="error_no_translation">No hay traducción disponible.</string>
+    <string name="error_tts_init">Error al iniciar TTS.</string>
+    <string name="placeholder_original">Texto original aparecerá aquí</string>
+    <string name="placeholder_translation">Traducción aparecerá aquí</string>
+</resources>
